@@ -6,7 +6,7 @@
 
 ## ABOUT
 
-![Profile Pic](._readme/ashim-dai.heic)
+![Profile Pic](._readme/goku-san.jpeg)
 
 Hi! My name is Ashim Shrestha and I am from Nepal. I have been living in Canada for the last 8 months. I go to Humber College and currently enrolled in Web Development program.
 
