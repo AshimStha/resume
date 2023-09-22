@@ -26,4 +26,11 @@ Hi! My name is Ashim Shrestha and I am from Nepal. I have been living in Canada 
     - The British College (2022 A.D)
 
 ## WORK EXPERIENCE
+
+1. Federation of Canada-Nepal Chamber of Commerce:
+    - Internship (2023 A.D - 4 months)
+
+2. Toomuch Voltage Inc.
+    - The British College (2023 A.D - 2 months)
+
 ## CONTACT
