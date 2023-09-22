@@ -14,8 +14,8 @@ Hi! My name is Ashim Shrestha and I am from Nepal. I have been living in Canada 
 
 | Title |   URL  | Technology |
 |-------|--------| -----------|
-| Test  |   Test |   Test     |
-| Test  |   Test |   Test     |
+| E-Workshop  |   N/A |   HTML, CSS, JS, Google Maps API, Laravel  |
+| Cleckhuddersfax Communal E-Mart  |   N/A |   HTML, CSS, JS, PHP, Bootstrap    |
 
 
 ## EDUCATION
