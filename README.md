@@ -13,7 +13,7 @@ Hi! My name is Ashim Shrestha and I am from Nepal. I have been living in Canada 
 ## PROJECTS
 
 | Title |   URL  | Technology |
-| ======|:======:| ==========:|
+|-------|--------| -----------|
 | Test  |   Test |   Test     |
 | Test  |   Test |   Test     |
 
