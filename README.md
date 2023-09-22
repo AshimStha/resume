@@ -35,3 +35,6 @@ Hi! My name is Ashim Shrestha and I am from Nepal. I have been living in Canada 
 
 ## CONTACT
 
+You can contact me using any of the following:
+
+[LinkedIn](https://www.linkedin.com/in/ashim-shrestha-72a16a260/)
